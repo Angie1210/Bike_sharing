@@ -5,6 +5,9 @@ In this project we are going to use data from a Bike sharing company located in 
 
 ## Results
 
+* LINK TO TABLEAU STORY *
+[link to dashboard](https://public.tableau.com/app/profile/angelica3859/viz/City_bike_challenge/NYCCity-Bike?publish=yes)
+
 1) Most of the trips last less than one-hour.
 
 ![Screen Shot 2022-05-27 at 9 12 04 PM](https://user-images.githubusercontent.com/43548929/170809330-720ff35b-8a9c-434f-83b6-63ebacd65ec7.png)
