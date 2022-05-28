@@ -38,7 +38,7 @@ In this project we are going to use data from a Bike sharing company located in 
 
 We can see that the bikes are being used as a trasportation to and from work. They are also used during weekends for recreation. The subscribers are actually using the service, so we need to convince people to subscribe. Males are the ones that used more the bike, so our marketing needs to be focused on them but we need to offer something that makes women more interested in using the bikes, maybe changing the style of the bikes.
 
-We need to check our age demographics for advertisement, se we can see that people born in the late 60's and in the 90's are our target market.
+We need to check our age demographics for advertisement. We can see that people born in the late 60's and in the 90's are our target market.
 
 ![Screen Shot 2022-05-27 at 9 38 30 PM](https://user-images.githubusercontent.com/43548929/170810170-ddf9e2bf-95a0-4108-a35b-b00ac5615dd6.png)
 
